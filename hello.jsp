@@ -1,3 +1,3 @@
-hello JSP!
+hello world!
 
 <%= new java.util.Date() %>
